@@ -8,3 +8,11 @@ body{
 div{
     margin-bottom: 20px;
 }
+
+button{
+    width:110%;
+    height:110%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:blueviolet;
+    background-color:aliceblue;
+}
